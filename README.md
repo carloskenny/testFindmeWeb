@@ -7,7 +7,7 @@ Ao baixar o reposítório, faça a importação das dependências e bibliotecas
 
 >> npm install or yarn
 
-Sem seguinda inicie o servidor
+Em seguinda inicie o servidor
 
 >> npm run dev
 
